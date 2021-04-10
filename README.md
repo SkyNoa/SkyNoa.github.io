@@ -1,2 +1,2 @@
 # SkyNoa.github.io
-Web
+Webページアップロードするかも
